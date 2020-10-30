@@ -1,6 +1,6 @@
 {
   "name": "@georgenet/timeslotter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Time slot generation library",
   "main": "index.js",
   "repository": "git@github.com:gbougakov/timeslotter.git",
