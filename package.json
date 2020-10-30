@@ -1,5 +1,5 @@
 {
-  "name": "timeslotter",
+  "name": "@georgenet/timeslotter",
   "version": "0.0.1",
   "description": "Time slot generation library",
   "main": "index.js",
